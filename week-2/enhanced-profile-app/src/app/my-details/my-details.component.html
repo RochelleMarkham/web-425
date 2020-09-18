@@ -1,0 +1,12 @@
+<ul class="list-group">
+  <li class="list-group-item">About Me</li>
+  <li class="list-group-item list-group-item-secondary">Name: {{myProfile.fullName}}</li>
+  <li class="list-group-item list-group-item-success">Favorite Food: {{myProfile.favoriteFood}}}</li>
+  <li class="list-group-item list-group-item-info">Favorite Color: {{myProfile.favoriteColor}}</li>
+  <li class="list-group-item">
+    Keywords:
+    <span *ngFor = "let word of myProfile.keywords">
+        {{word}}
+    </span>
+  </li>
+</ul>
