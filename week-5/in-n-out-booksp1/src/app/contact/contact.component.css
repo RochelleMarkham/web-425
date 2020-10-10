@@ -1,0 +1,12 @@
+.address{
+  padding-left: 175px;
+}
+
+p {
+  font-size: 20px;
+}
+
+.mat-icon{
+  transform: scale(2);
+  padding-left: 50px;
+}
