@@ -1,0 +1,8 @@
+.a-link {
+  cursor: pointer;
+}
+
+.a-link:hover {
+  text-decoration: underline;
+}
+
