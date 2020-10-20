@@ -1,0 +1,22 @@
+img {
+  height: 300px;
+  padding-left: 60%;
+}
+
+em {
+  padding-left: 30% ;
+}
+
+h1, p {
+  margin-left: -175px;
+  margin-right: 175px;
+}
+
+h1{
+  font-weight: bold;
+}
+
+p {
+  font-size: 18px;
+  line-height: 25px;
+}

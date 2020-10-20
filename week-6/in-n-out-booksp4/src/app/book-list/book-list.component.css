@@ -1,0 +1,18 @@
+.a-link {
+  text-decoration: none;
+  color: #2196f3;
+}
+
+.a-link:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+tr, th, td{
+  font-size: 20px;
+}
+
+h2{
+  font-size: 24px;
+  color: #4caf52;
+}
