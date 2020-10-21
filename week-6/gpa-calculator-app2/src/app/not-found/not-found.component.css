@@ -1,0 +1,29 @@
+.black{
+  margin: 0 auto;
+  background: black;
+  height: 500px;
+  width: 700px;
+  margin-top: 200px;
+  padding: 1px;
+}
+
+.yellow{
+  margin: 0 auto;
+  background: yellow;
+  height: 450px;
+  width: 650px;
+  margin: 25px 25px 25px 25px;
+}
+
+.text > p {
+  padding-top: 70px;
+  font-size: 100px;
+  text-align: center;
+  line-height: 100px;
+}
+
+.error{
+  text-align: center;
+  font-size: 30px;
+  margin-top: 25px;
+}
